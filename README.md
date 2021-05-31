@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shahinnawas
 - 👀 I’m interested in new ideas
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on new repos
 - 📫 How to reach me shahin.knavas@gmail.com
 
 <!---
